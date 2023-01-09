@@ -13,6 +13,7 @@ The push buttons functions, from top to buttom:
 - Green control for 2nd Floor RGB LEDs: press once to turn green on/off, hold pressed to gradually increase green
 - Blue control for 2nd Floor RGB LEDs: press once to turn blue on/off, hold pressed to gradually increase blue
 
+The controller is mounted at the back of the garage:
 <img src="./img/DHD1.jpg" alt="Doll House Disco Controls" width="30%" />
 
 The modes for the 2nd Floor RGB LEDs:
@@ -23,5 +24,4 @@ The modes for the 2nd Floor RGB LEDs:
 <img src="./img/DHD3.jpg" alt="All LEDs on" width="30%" />
 <img src="./img/DHD4.jpg" alt="Ground and 1st Floor LEDs on" width="30%" />
 <img src="./img/DHD5.jpg" alt="Top Floor RGB LEDs with only red light on" width="30%" />
-
-<br><br>
+<img src="./img/DHD1.gif" alt="Top Floor Disco Mode" width="30%" />
