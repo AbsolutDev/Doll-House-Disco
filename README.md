@@ -17,7 +17,7 @@ The push buttons functions, from top to buttom:
 
 The modes for the 2nd Floor RGB LEDs:
 - fully on (R=255, G=255, B=255)
-- disco mode randomly changing colours slow > medium > fast
+- [disco mode](./img/DHD1.mp4) randomly changing colours (3 speed modes: slow/medium/fast)
 - holloween mode: flashing randomly 1-4 times
 
 <img src="./img/DHD3.jpg" alt="All LEDs on" width="30%" />
@@ -25,5 +25,3 @@ The modes for the 2nd Floor RGB LEDs:
 <img src="./img/DHD5.jpg" alt="Top Floor RGB LEDs with only red light on" width="30%" />
 
 <br><br>
-
-<video src=”./img/DHD1.mp4” controls loop>Alternative Text</video>
