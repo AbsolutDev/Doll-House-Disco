@@ -1,0 +1,8 @@
+Pins
+A5	> SW2
+A1	> SW0
+A3	> SW1
+A2	> SWR
+A	> SWG
+A0	> SWB
+
