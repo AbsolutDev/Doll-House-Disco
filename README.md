@@ -27,6 +27,7 @@ The modes for the 2nd Floor RGB LEDs:
 <br><br>
 
 <img src="./img/DHD3.jpg" alt="All LEDs on" width="30%" />
-<img src="./img/DHD4.jpg" alt="Ground and 1st Floor LEDs on" width="30%" />
-<img src="./img/DHD5.jpg" alt="Top Floor RGB LEDs with only red light on" width="30%" />
-<img src="./img/DHD1.gif" alt="Top Floor Disco Mode" width="30%" />
+<img src="./img/DHD4.jpg" alt="Top Floor RGB LEDs on red only" width="30%" />
+<br><br>
+
+<img src="./img/DHD5.gif" alt="Top Floor Disco Mode" width="30%" />
